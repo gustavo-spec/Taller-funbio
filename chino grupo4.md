@@ -1,4 +1,6 @@
 **(Fernanda):**  
+
+# Dialogo
 你好，请问去“公园 de las Leyendas”怎么走？  
 **Nǐ hǎo, qǐngwèn qù “gōngyuán de las Leyendas” zěnme zǒu?**  
 Hola, ¿cómo se va al Parque de las Leyendas?  
